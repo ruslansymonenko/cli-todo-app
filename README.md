@@ -42,8 +42,8 @@ exit → exit the program
 Tasks are stored as a list of objects:
 
 json
-Копіювати
-Редагувати
+
+```bash
 [
   {
     "task": "buy milk",
@@ -54,3 +54,4 @@ json
     "done": false
   }
 ]
+```
